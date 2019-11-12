@@ -80,6 +80,7 @@ html, body{
   font-family: raleway;
   font-weight: 100;
   font-size: x-large;
+  text-align: center;
 }
 
 #projects{
@@ -119,7 +120,7 @@ html, body{
 }
 
 .pic{
-  height: 400px;
+  /*height: 400px;*/
   object-fit: cover;
 }
 
@@ -322,6 +323,20 @@ html, body{
   transition: transform 0.3s ease-out;
   text-align: center;
   margin: 20px;
+}
+
+#welcome{
+  color: white;
+  text-align: Center;
+  font-size: x-large;
+}
+
+#tagline{
+  color: gold;
+  font-family: raleway;
+  font-weight: 100;
+  font-size: medium;
+  text-align: center;
 }
 
 }
