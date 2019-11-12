@@ -339,5 +339,16 @@ html, body{
   text-align: center;
 }
 
+#contact{
+  background: linear-gradient(180deg, black, darkgrey);
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 200px 0 200px 0;
+flex-direction: column;
+width: 100%;
+}
+
 }
 
