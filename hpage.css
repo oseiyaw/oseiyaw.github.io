@@ -277,6 +277,12 @@ html, body{
   text-align: center;
   margin: 20px;
 }
+
+#welcome{
+  color: white;
+  text-align: Center;
+  font-size: x-large;;
+}
 }
 
 @media (max-width: 400px){
@@ -328,7 +334,7 @@ html, body{
 #welcome{
   color: white;
   text-align: Center;
-  font-size: medium;
+  font-size: x-large;
 }
 
 #tagline{
